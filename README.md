@@ -1,5 +1,8 @@
 # React + Vite
 
+CCreate Notes App
+Using Reacct JS + Vite
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
