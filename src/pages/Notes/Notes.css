@@ -1,0 +1,35 @@
+.Notes {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+
+.formStyle {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+input {
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: solid white 1px;
+}
+
+.kumpulanData {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5 rem;
+
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    border: solid gray 1px;
+    border-radius: 5px;
+
+}
